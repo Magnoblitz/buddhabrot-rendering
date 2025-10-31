@@ -16,7 +16,7 @@ Buddhabrot with iterations of R=20000, B=2000, G=500
 Buddhabrot/Nebulabrot with iterations of R=800, B=200, G=50
 
 ![Blue tricorn](images/tricorn_blue.png)
-Tricorn with iterations of R=20000, B=2000, G=500
+Tricorn with iterations of R=20000, B=2000, G=500 and some denoising
 
 ![Nebulabrot tricorn](images/tricorn_nebulabrot.png)
 Tricorn with iterations of R=800, B=200, G=50
