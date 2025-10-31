@@ -13,7 +13,7 @@ Here are some output images I have gotten:
 Buddhabrot with iterations of R=20000, B=2000, G=500
 
 ![Nebulabrot](images/nebulabrot.png)
-Buddhabrot with iterations of R=800, B=200, G=50
+Buddhabrot/Nebulabrot with iterations of R=800, B=200, G=50
 
 ![Blue tricorn](images/tricorn_blue.png)
 Tricorn with iterations of R=20000, B=2000, G=500
