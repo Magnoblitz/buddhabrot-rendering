@@ -10,14 +10,14 @@ If you want to denoise an image that you render, open denoise.py and change the 
 
 <br><br><br>
 
-Links to my references and inspiration for this project:
-Introduction to the Mandelbrot set: [What's so special about the Mandelbrot Set? - Numberphile](https://www.youtube.com/watch?v=FFftmWSzgmk)
-Extensions of the Mandelbrot set: [Tricorn](https://en.wikipedia.org/wiki/Tricorn_(mathematics)) and [Burning ship fractal](https://en.wikipedia.org/wiki/Burning_Ship_fractal)
-History and introduction to the Buddhabrot from Melinda Green, its discoverer: [The Buddhabrot Technique](https://superliminal.com/fractals/bbrot/)
-More info and rendering info about the Buddhabrot: [Buddhabrot wiki article](https://en.wikipedia.org/wiki/Buddhabrot)
-Very helpful info about rendering a Buddhabrot quickly and how to denoise the results: [Rendering a Buddhabrot at 4K and Other Bad Ideas](https://benedikt-bitterli.me/buddhabrot/)
+Links to my references and inspiration for this project:<br>
+Introduction to the Mandelbrot set: [What's so special about the Mandelbrot Set? - Numberphile](https://www.youtube.com/watch?v=FFftmWSzgmk)<br>
+Extensions of the Mandelbrot set: [Tricorn](https://en.wikipedia.org/wiki/Tricorn_(mathematics)) and [Burning ship fractal](https://en.wikipedia.org/wiki/Burning_Ship_fractal)<br>
+History and introduction to the Buddhabrot from Melinda Green, its discoverer: [The Buddhabrot Technique](https://superliminal.com/fractals/bbrot/)<br>
+More info and rendering info about the Buddhabrot: [Buddhabrot wiki article](https://en.wikipedia.org/wiki/Buddhabrot)<br>
+Very helpful info about rendering a Buddhabrot quickly and how to denoise the results: [Rendering a Buddhabrot at 4K and Other Bad Ideas](https://benedikt-bitterli.me/buddhabrot/)<br>
 
-
+<br><br><br>
 
 
 Here are some output images I have gotten:
