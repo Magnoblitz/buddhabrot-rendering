@@ -8,7 +8,7 @@ This repository includes code to render the Mandelbrot set and its extensions (t
 Run mandelbrot.py to render the Mandelbrot set and try uncommenting certain lines to create the other fractals. Run buddhabrot.py to render the Buddhabrot, and you can also uncomment lines here to see the other fractals. Be patient with the Buddhabrot since it can take a while to render the image with a high number of random points and iterations.
 If you want to denoise an image that you render, open denoise.py and change the input and output file names and tweak the settings to your liking before running it to get a denoised version of your render.
 
-<br><br><br>
+<br>
 
 **Links to my references and inspiration for this project:**<br>
 Introduction to the Mandelbrot set: [What's so special about the Mandelbrot Set? - Numberphile](https://www.youtube.com/watch?v=FFftmWSzgmk)<br>
@@ -17,7 +17,7 @@ History and introduction to the Buddhabrot from Melinda Green, its discoverer: [
 More info and rendering info about the Buddhabrot: [Buddhabrot wiki article](https://en.wikipedia.org/wiki/Buddhabrot)<br>
 Very helpful info about rendering a Buddhabrot quickly and how to denoise the results: [Rendering a Buddhabrot at 4K and Other Bad Ideas](https://benedikt-bitterli.me/buddhabrot/)<br>
 
-<br><br><br>
+<br>
 
 
 **Here are some output images I have gotten:**
