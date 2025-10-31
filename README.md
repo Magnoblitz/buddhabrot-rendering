@@ -1,6 +1,6 @@
 ![Nebulabrot](images/nebulabrot.png)
 
-This project is currently a work-in-progress, but in the future I plan to extend these two-dimensional representations of the Buddhabrot set into the 3rd and 4th dimensions. All the code is in Python.
+This project is currently a **work-in-progress**, but in the future I plan to extend these two-dimensional representations of the Buddhabrot set into the 3rd and 4th dimensions. All the code is in Python.
 Requirements to run:
 numpy, taichi, pillow, and opencv-python (optional)
 
@@ -10,7 +10,7 @@ If you want to denoise an image that you render, open denoise.py and change the 
 
 <br><br><br>
 
-Links to my references and inspiration for this project:<br>
+**Links to my references and inspiration for this project:**<br>
 Introduction to the Mandelbrot set: [What's so special about the Mandelbrot Set? - Numberphile](https://www.youtube.com/watch?v=FFftmWSzgmk)<br>
 Extensions of the Mandelbrot set: [Tricorn](https://en.wikipedia.org/wiki/Tricorn_(mathematics)) and [Burning ship fractal](https://en.wikipedia.org/wiki/Burning_Ship_fractal)<br>
 History and introduction to the Buddhabrot from Melinda Green, its discoverer: [The Buddhabrot Technique](https://superliminal.com/fractals/bbrot/)<br>
@@ -20,7 +20,7 @@ Very helpful info about rendering a Buddhabrot quickly and how to denoise the re
 <br><br><br>
 
 
-Here are some output images I have gotten:
+**Here are some output images I have gotten:**
 ![Blue Buddhabrot](images/bb_blue.png)
 Buddhabrot with iterations of R=20000, B=2000, G=500
 
