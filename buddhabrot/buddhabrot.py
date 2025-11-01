@@ -55,7 +55,7 @@ def render(hist : ti.template(), samples: ti.i32, max_iter: ti.i32, re_min: ti.f
             #z_im = abs(z_im)
 
             # uncomment this line for the tricorn fractal
-            z_im = -z_im
+            #z_im = -z_im
 
             zr = z_re * z_re - z_im * z_im + c_re
             zi = 2.0 * z_re * z_im + c_im
@@ -175,3 +175,4 @@ img = Image.fromarray(rgb, mode="RGB")
 
 img.save("buddhabrot.png")
 print(f"Saved buddhabrot.png in {time.time() - start_time:.2f}s")
+
